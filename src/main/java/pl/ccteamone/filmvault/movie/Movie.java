@@ -45,6 +45,5 @@ public class Movie {
 
     @ManyToMany
     private Set<Genre> genres;
-
 }
 
